@@ -1,0 +1,6 @@
+C:\Users\mvino\source\repos\TDDstring\TDDstring\bin\Debug\TDDstring.dll
+C:\Users\mvino\source\repos\TDDstring\TDDstring\bin\Debug\TDDstring.pdb
+C:\Users\mvino\source\repos\TDDstring\TDDstring\obj\Debug\TDDstring.csproj.AssemblyReference.cache
+C:\Users\mvino\source\repos\TDDstring\TDDstring\obj\Debug\TDDstring.csproj.CoreCompileInputs.cache
+C:\Users\mvino\source\repos\TDDstring\TDDstring\obj\Debug\TDDstring.dll
+C:\Users\mvino\source\repos\TDDstring\TDDstring\obj\Debug\TDDstring.pdb
